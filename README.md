@@ -26,6 +26,8 @@ Notas para concurso público
 * [Legislação](https://github.com/sswellington/notas/tree/master/Legisla%C3%A7%C3%A3o/)
 	* [Administração Pública](#admp)
 	* [Auditoria Governamental](https://github.com/sswellington/notas/tree/master/Legisla%C3%A7%C3%A3o/Auditoria%20Governamental)
-	* [Direito Constitucional](#dconst)
+	* [Direito Constitucional](https://github.com/sswellington/notas/tree/master/Legisla%C3%A7%C3%A3o/Direito%20Constitucional)
 	* [Direito Administrativo](#dadm)
 	* [Leg. Complementar e Consolidação Normativa](#lccn)
+
+### [Dicionário](https://github.com/sswellington/notas/blob/master/Dicionário.md)

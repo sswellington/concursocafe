@@ -1,5 +1,4 @@
 # Banco de Dados
-=================
 
 # Modelagem Conceitual - ER
 

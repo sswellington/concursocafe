@@ -21,7 +21,7 @@ Resumos para concurso público
     * [Análise de Dados](https://github.com/sswellington/notas/tree/master/Especifica/Analise_Dados)
     * [Arquitetura e Sistemas Operacionais](https://github.com/sswellington/notas/tree/master/Especifica/Arquitetura_Sistemas_Operacionais) 
     * [Banco de Dados](https://github.com/sswellington/notas/tree/master/Especifica/Banco_Dados)
-    * [Engenharia de Software](#https://github.com/sswellington/notas/tree/master/Especifica/Engenharia_Software)                     
+    * [Engenharia de Software](https://github.com/sswellington/notas/tree/master/Especifica/Engenharia_Software)                     
     * [Governancia de TI](https://github.com/sswellington/notas/tree/master/Especifica/Governancia_TI)
     * [Redes I](https://github.com/sswellington/notas/tree/master/Especifica/Redes) 
     * [Redes II - Segurança de Redes](https://github.com/sswellington/notas/tree/master/Especifica/RedesII)
@@ -31,5 +31,5 @@ Resumos para concurso público
     * [Computação Forense](https://github.com/sswellington/notas/tree/master/Complementar/Computacao_Forense)
 	* [Fiscalização e Contratação de Tecnologia](https://github.com/sswellington/notas/tree/master/Complementar/Fiscalizacao_Contratacao) 
 
-### [Dicionário](https://github.com/sswellington/notas/blob/master/Dicionário.md)
+### [Dicionário](https://github.com/sswellington/notas/blob/master/Dicionario.md)
 ### [Siglas](https://github.com/sswellington/notas/blob/master/Siglas.md)

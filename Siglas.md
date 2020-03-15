@@ -1,6 +1,10 @@
+# NUM
+* *5W2H* (Governancia de TI)
+
 # A
 
 # B
+* *BSC* (Governancia de TI)
 
 # C
 
@@ -32,16 +36,18 @@
 
 # P
 
-* *PDRAE:* Plano Diretor de Reforma do Aparelho do Estado 
-
-* *PPA:* Plano Plurianuais
+* *PETI* (Governancia de TI)
+* *PDCA* (Governancia de TI)
+* *PDRAE:* Plano Diretor de Reforma do Aparelho do Estado (Administração Pública)
+* *PDTI* (Governancia de TI)
+* *PPA:* Plano Plurianuais (Administração Pública)
 
 # Q
 
 # R
 
 # S
-
+* *SWOT* **S**trengths(Forças); **W**eaknesses(Fraquezas); **O***pportunities (Oportunidades); **T**hreats(Ameaças) (Governancia de TI)
 # T
 
 # U

@@ -22,7 +22,7 @@ Resumos para concurso público
     * [Arquitetura e Sistemas Operacionais](https://github.com/sswellington/notas/tree/master/Especifica/Arquitetura_Sistemas_Operacionais) 
     * [Banco de Dados](https://github.com/sswellington/notas/tree/master/Especifica/Banco_Dados)
     * [Engenharia de Software](https://github.com/sswellington/notas/tree/master/Especifica/Engenharia_Software)                     
-    * [Governancia de TI](https://github.com/sswellington/notas/tree/master/Especifica/Governancia_TI)
+    * [Governança de TI](https://github.com/sswellington/notas/tree/master/Especifica/Governanca_TI)
     * [Redes I](https://github.com/sswellington/notas/tree/master/Especifica/Redes) 
     * [Redes II - Segurança de Redes](https://github.com/sswellington/notas/tree/master/Especifica/RedesII)
     

@@ -55,8 +55,23 @@ Descrever objetivos e ações
 * **C**heck; 
 * **A**ct;
 
-### BSC - Gestão Estratégia de TI
+### BALANCED SCORECARD (BSC) - Gestão Estratégia de TI
 * Objetivo: Medidas, Metas e Iniciativas (MMI)
+
+É um ferramenta de gestão estratégica (usada sobretudo no alinhamento e no controle estratégico) que permite a medição de desempenho por meio de várias perspectivas.
+
+* **F**inanceira
+* **I**nterna
+* **C**lientes
+* **A**prendizagem e crescimento.
+
+INCIDÊNCIA DAS PERSPECTIVAS:
+
+| FINANCEIRA 	| Clientes | PROCESSOS/INTERNOS | APRENDIZADO E CRESCIMENTO |
+|---------------|----------|--------------------|---------------------------|
+| Faturamento	| Satisfação | **Novos processos**		| Gestão de pessoas |
+| Valor agregado| Captação de Clientes | Produtividade 	| Clima e Cultura	|
+| Lucratividade	| Retenção de Clientes | Qualidade		| Liderança			|
 
 ### Processo de Gestão de Risco - ISO 31000
 * Identificar
@@ -67,7 +82,7 @@ Descrever objetivos e ações
 ### SWOT
 * **S**trengths (Forças) 
 * **W**eaknesses (Fraquezas)
-* **O***pportunities (Oportunidades)
+* **O**pportunities (Oportunidades)
 * **T**hreats (Ameaças)
 
 ### COBIT - Gerenciamento de TI

@@ -28,6 +28,7 @@
 # K
 
 # L
+* Lurk = Espreitar, espiar
 
 # M
 * Moreover = Além disso
